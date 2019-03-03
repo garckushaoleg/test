@@ -1,0 +1,169 @@
+.fon {
+    width: 1280px;
+    margin: auto;
+}
+
+.head {
+    height: 67px;
+    background-color: white;
+    position: fixed;
+    width: 1280px;
+}
+
+.logo1 {
+    font-family: 'SegoeWP Semibold';
+    font-size: 36.35px;
+    color: #1298dd;
+    margin-left: 150px;
+}
+
+.logo2 {
+    font-family: 'SegoeWPN SemiLight';
+    font-size: 30.35px;
+    color: #8d8d8d;
+    margin-right: 400px;
+}
+
+.logo {
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.menu {
+    font-family: 'SegoeWPN SemiLight';
+    font-size: 16.35px;
+    color: #676767;
+    text-align: center;
+    height: 35px;
+    width: 100px;
+    padding-top: 9px;
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu:hover {
+    color: white;
+    background-color: #1784d1;
+    border-radius: 5px;
+    border: 1px solid #1784d1;
+    box-shadow: inset 0 20px 5px #e5e0e03f;
+}
+
+.vus {
+    height: 1185px;
+    background-color: #ececec;
+    width: 1280px;
+    display: inline-block;
+    margin-top: 25px;
+}
+
+.ser {
+    height: 571px;
+    text-align: center;
+    background-image: url(images/layer3.png);
+    padding-top: 180px;
+    color: white;
+    font-family: 'SegoeWP';
+}
+
+.ser1 {
+    font-size: 52.35px;
+    font-weight: bold;
+}
+
+.ser2 {
+    margin-top: 24px;
+    font-size: 48.35px;
+}
+
+.ser3 {
+    font-family: 'SegoeWP';
+    font-weight: bold;
+    font-size: 34.35px;
+    background-color: #34ae22;
+    border-radius: 2px;
+    border: 1px solid #34ae22;
+    box-shadow: inset 0 5px 5px #70f354, 0 0 10px #353333;
+    height: 58px;
+    width: 274px;
+    display: inline-block;
+    padding-top: 10px;
+    margin-top: 35px;
+}
+
+.ser4 {
+    text-align: center;
+    height: 246px;
+    width: 482px;
+    font-family: 'SegoeWP';
+    font-size: 22.35px;
+    background-color: white;
+    color: #868686;
+    padding-top: 23px;
+    margin: auto;
+    margin-top: 75px;
+    border-radius: 4px;
+    box-shadow: 0 7px 0px #34ae22;
+}
+
+.icons {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.icons img {
+    padding-right: 3px;
+}
+
+.icons span {
+    font-size: 12px;
+    margin-right: 3px;
+    width: 79px;
+    display: inline-block;
+    margin-top: 2px;
+    text-align: left;
+    margin-bottom: 17px;
+    font-family: 'SegoeWP';
+    font-size: 14.35px;
+    color: #929292;
+}
+
+.txt1 {
+    margin-top: 65px;
+    font-size: 26.35px;
+}
+
+.txt2 {
+    margin-top: 19px;
+    font-size: 22.35px;
+}
+
+.txt {
+    font-family: 'SegoeWP';
+    text-align: center;
+    color: #7e7c7c;
+}
+
+.icons2 {
+    display: inline-block;
+    margin-top: 55px;
+    margin-left: 120px;
+}
+
+.icons2 img {
+    display: inline-block;
+    margin-right: 60px;
+    width: 133x;
+}
+.icons2 span {
+    display: inline-block;
+    color: #7e7c7c;
+    font-family: 'SegoeWP';
+    font-size: 20.35px;
+    margin-right: 60px;
+    width: 133px;
+    margin-top: 19px;
+}
