@@ -1,7 +1,7 @@
 let result = 0;
 
 //Первое модальное окно
-let questionOne = prompt('Сколько будет 2+2');
+let questionOne = prompt('Сколько будет 2+2', '');
 
 if (questionOne === '4') {
     result+=10;
@@ -28,7 +28,7 @@ if (questionTwo === true) {
 }
 
 //Третье модальное окно
-let questionThree = prompt('Сколько будет 5 << 2');
+let questionThree = prompt('Сколько будет 5 << 2', '');
 
 if (questionThree === '20') {
     result+=10;
@@ -42,7 +42,6 @@ if (questionThree == '') {
 }
 
 if (Number(questionThree)-Number(questionThree)!==0) {
-    console.log (questionThree);
     alert('Нужно было ввести число!');
 }
 
